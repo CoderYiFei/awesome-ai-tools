@@ -464,25 +464,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [coursera-deep-learning-specialization](https://github.com/pratham5368/coursera-deep-learning-specialization) - Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai
 - [tensorflow](https://github.com/pratham5368/Tecnologies-I-Learn/tree/main/31-pytorch) - all important notes to learn pytorch with all the examples in google colab
 
-## NVIDIA Platform Extensions
-
-- [NVIDIA Omniverse AI Animal Explorer Extension](https://docs.omniverse.nvidia.com/extensions/latest/ext_animal-explorer.html#installation) - AI Animal Explorer is an Omniverse extension that enables creators to quickly prototype unique 3D animal meshes.
 
 
-## Related Awesome Lists
 
-- [Altern](https://altern.ai) - Find Best AI Tools
-- [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
-- [There's An AI](https://theresanai.com) - Frontpage of AI
-- [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
-- [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
-- [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
-- [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
-- [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing) 
-- [Awesome AI SEO](https://github.com/xaramore/awesome-ai-seo)
-- [Awesome AI Marketing](https://github.com/xaramore/awesome-ai-marketing) 
-- [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) 
-- [Awesome AI Image](https://github.com/xaramore/awesome-ai-image) 
 - [Awesome AI Video](https://github.com/xaramore/awesome-ai-video)
 - [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing) 
 
